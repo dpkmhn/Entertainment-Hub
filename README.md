@@ -1,12 +1,42 @@
 # Entertainment Hub
-<table>
-<tr>
-<td>
-  Movie App built in React JS and Material UI.
-</td>
-</tr>
-</table>
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+## Table of contents
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+- [General ](#general-info)
+- [Tools and Technologies used](#tools-and-technologies-used)
+- [Features](#features)
+
+## General Info
+
+> This is a web app that shows trending and category wise Movies and TV Series lists along with ability to search. •
+
+> Designed and developed using HTML, CSS, React.js, React-router and hosted on Firebase. Used TMDB-API to fetch movies and TV Series list.
+
+## Tools and Technologies used
+
+1. <b>React.js </b> :- For giving a user friendly frontend.
+2. <b> Material-UI </b> :- For icons and images
+3. <b> Firebase </b> :- For hosting
+4. <b> React-Routers </b> :- For switching between different chats without reloading the page
+
+## Features
+
+### Trending Movies:-
+
+<br>
+<img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
+
+### Movies displayed category wise
+
+<br>
+<img src="screenshots/movies.png" alt="Smiley face" width = "700"  height = "400">
+
+### Series displayed category wise
+
+<br>
+<img src="screenshots/series.png" alt="Smiley face" width = "700"  height = "400">
+
+### Search
+
+<br>
+<img src="screenshots/search.png" alt="Smiley face" width = "700"  height = "400">
