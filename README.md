@@ -22,21 +22,17 @@
 ## Features
 
 ### Trending Movies:-
-
 <br>
 <img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
 
-### Movies displayed category wise
-
+### Movies displayed category wise:-
 <br>
 <img src="screenshots/movies.png" alt="Smiley face" width = "700"  height = "400">
 
-### Series displayed category wise
-
+### Series displayed category wise:-
 <br>
 <img src="screenshots/series.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Search
-
 <br>
 <img src="screenshots/search.png" alt="Smiley face" width = "700"  height = "400">
