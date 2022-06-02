@@ -14,25 +14,23 @@
 
 ## Tools and Technologies used
 
-1. <b>React.js </b> :- For giving a user friendly frontend.
-2. <b> Material-UI </b> :- For icons and images
+1. <b>React.js </b> :- To build components and to manage the state of the app. 
+2. <b> Material-UI </b> :- For giving a user friendly frontend.
 3. <b> Firebase </b> :- For hosting
-4. <b> React-Routers </b> :- For switching between different chats without reloading the page
 
 ## Features
 
 ### Trending Movies:-
-<br>
 <img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Movies displayed category wise:-
-<br>
+ 
 <img src="screenshots/movies.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Series displayed category wise:-
-<br>
+ 
 <img src="screenshots/series.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Search
-<br>
+ 
 <img src="screenshots/search.png" alt="Smiley face" width = "700"  height = "400">
