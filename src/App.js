@@ -22,10 +22,11 @@ function App() {
             <Route path="/search" component={Search} />
           </Switch>
         </Container>
-        <Footer />
       </div>
+      <Footer />
       <SimpleBottomNavigation />
     </BrowserRouter>
+
   );
 }
 
