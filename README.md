@@ -8,7 +8,7 @@
 
 ## General Info
 
-> This is a web app that shows trending and category wise Movies and TV Series lists along with ability to search. •
+> A web app that shows trending and category wise Movies and TV Series lists along with ability to search.
 
 > Designed and developed using HTML, CSS, React.js, React-router and hosted on Firebase. Used TMDB-API to fetch movies and TV Series list.
 
